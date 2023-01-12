@@ -1,2 +1,1 @@
-# test
 # django-csv-read
