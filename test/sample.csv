@@ -1,0 +1,10 @@
+項番,項目名,モード,桁数,バイト数,備考,物理名,型
+1,変更区分,数字,1,1,,change_type,number
+2,グループ番号,英数,4,4,,group_number,text
+3,注加算項目_加算コード,英数,5,5,,annotation_add_item_add_code,text
+4,注加算項目_歯科診療行為コード,数字,9,9,,annotation_add_item_dental_practice_code,number
+5,注加算項目_診療行為名称_基本名称,漢字,100,200,,annotation_add_item_practice_bassic_name,text
+6,注加算項目_加算識別,数字,2,2,,annotation_add_item_add_identification,number
+7,変更年月日,日付,8,8,,change_day,date
+8,廃止年月日,日付,8,8,,abolition_day,date
+9,予備,数字,3,3,未使用,reserve,number
