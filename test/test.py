@@ -1,7 +1,7 @@
 import pandas as pd
 # from pathlib import Path
 
-filepath = 'sample.csv'
+filepath = 'csv_input/sample.csv'
 # print(Path(filepath).read_text())
 
 # header=1 は1行目から読み込み開始
@@ -13,4 +13,4 @@ df = pd.read_csv(filepath,header=1,usecols=[1, 3, 6, 7],index_col=0)
 print(df)
 
 # 出力
-# df.to_csv("out.csv")
+df.to_csv("csv_output/out1.csv")
