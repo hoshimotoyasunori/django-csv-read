@@ -1,0 +1,10 @@
+,physical_name,type,item_name,digit
+0,change_type,number,変更区分,1
+1,group_number,text,グループ番号,4
+2,annotation_add_item_add_code,text,注加算項目_加算コード,5
+3,annotation_add_item_dental_practice_code,number,注加算項目_歯科診療行為コード,9
+4,annotation_add_item_practice_bassic_name,text,注加算項目_診療行為名称_基本名称,100
+5,annotation_add_item_add_identification,number,注加算項目_加算識別,2
+6,change_day,date,変更年月日,8
+7,abolition_day,date,廃止年月日,8
+8,reserve,number,予備,3
