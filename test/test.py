@@ -13,4 +13,4 @@ df = pd.read_csv(filepath,header=1,usecols=[1, 3, 6, 7],index_col=0)
 print(df)
 
 # 出力
-df.to_csv("csv_output/out1.csv")
+df.to_csv("csv_output/out2.csv")

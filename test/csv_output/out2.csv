@@ -1,0 +1,9 @@
+変更区分,1.1,change_type,number
+グループ番号,4,group_number,text
+注加算項目_加算コード,5,annotation_add_item_add_code,text
+注加算項目_歯科診療行為コード,9,annotation_add_item_dental_practice_code,number
+注加算項目_診療行為名称_基本名称,100,annotation_add_item_practice_bassic_name,text
+注加算項目_加算識別,2,annotation_add_item_add_identification,number
+変更年月日,8,change_day,date
+廃止年月日,8,abolition_day,date
+予備,3,reserve,number

@@ -11,3 +11,7 @@ source .test/bin/activate
 ```bash
 python test.py
 ```
+
+```bash
+deactivate
+```
